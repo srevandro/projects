@@ -1,0 +1,14 @@
+name: needs to compile code stuff
+channels:
+  - srevandro
+dependencies:
+  - python=3.11
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
